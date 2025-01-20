@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ulisses Albardeiro - Programador PHP 
 
-<!--
-**ulisses-albardeiro/ulisses-albardeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/badge/Blog-AlbaWeb.com.br-blue)](https://albaweb.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ulisses-albardeiro)
+[![Email](https://img.shields.io/badge/Email-ualbardeiro%40gmail.com-red)](mailto:ualbardeiro@gmail.com)
 
-Here are some ideas to get you started:
+## Estatísticas do GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ulisses GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulisses-albardeiro&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulisses-albardeiro&layout=compact&theme=radical)
+
+## Gráfico de Atividade do GitHub
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ulisses-albardeiro&theme=react-dark&hide_border=true&area=true)
