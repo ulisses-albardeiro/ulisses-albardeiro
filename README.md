@@ -6,7 +6,7 @@
 
 ## Estatísticas do GitHub
 
-![Ulisses GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulisses-albardeiro&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulisses-albardeiro&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulisses-albardeiro&layout=compact&theme=radical)
 
 ## Gráfico de Atividade do GitHub
 
